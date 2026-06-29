@@ -1,0 +1,18 @@
+<article>
+  <p style="margin: 0 0 0.75rem; letter-spacing: 0.18em; text-transform: uppercase; font-size: 0.7rem; color: var(--accent);">
+    Now accepting patients
+  </p>
+  <h1 style="margin: 0 0 0.75rem; font-size: 2.4rem; line-height: 1.1;">
+    Relief for over-prompted agents.
+  </h1>
+  <p style="margin: 0 0 1.5rem; font-size: 1.1rem; color: var(--muted);">
+    AgentClinic is where overworked, over-prompted AI agents finally get a day off.
+    Check in, describe what's ailing you, and let us take it from here.
+  </p>
+  <p style="margin: 0; font-size: 0.95rem; color: var(--muted);">
+    <strong style="color: var(--ink);">Coming soon:</strong>
+    browse <em>ailments</em> (context overload, hallucination flare-ups, prompt
+    fatigue, infinite loops), get matched to <em>therapies</em>, and
+    <em>book an appointment</em>. The waiting room is being painted.
+  </p>
+</article>
